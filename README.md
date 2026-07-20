@@ -5,7 +5,7 @@
 - <b>LetsDefend Writeups</b>
 	-[Incident Walkthroughs](https://github.com/Borsch-Appreciator/Soc-analyst-portfolio/tree/LetsDefend-Investigations)
 - <b>TryHackMe Rooms</b>
-	-[Room Walkthroughs](https://github.com/Borsch-Appreciator/Soc-analyst-portfolio/edit/TryHackMe-Rooms)
+	-[Room Walkthroughs](https://github.com/Borsch-Appreciator/Soc-analyst-portfolio/tree/TryHackMe-Rooms)
 - <b>Splunk Homelab </b>
 	-[Homelab and Monitoring](https://github.com/Borsch-Appreciator/Splunk-Home-Lab)
 - <b>Fun Projects</b>
