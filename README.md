@@ -5,21 +5,19 @@
 
 <h2>Projects:</h2>
 
-- <b>LetsDefend Writeups</b>
-	- [Incident Walkthroughs](https://github.com/Borsch-Appreciator/Soc-analyst-portfolio/tree/LetsDefend-Investigations)
-- <b>TryHackMe Rooms</b>
-	- [Room Walkthroughs](https://github.com/Borsch-Appreciator/Soc-analyst-portfolio/tree/TryHackMe-Rooms)
-- <b>Splunk Homelab </b>
-	- [Homelab and Monitoring](https://github.com/Borsch-Appreciator/Splunk-Home-Lab)
-- <b>Fun Projects</b>
-	- [MineCraft Server](https://github.com/Borsch-Appreciator/Minecraft-Server)
+- <a href="https://github.com/Borsch-Appreciator/Security-Write-ups">SOC Simulation Walkthroughs</a>
+
+- <a href="https://github.com/Borsch-Appreciator/Splunk-Home-Lab">Splunk Homelab Setup and Monitoring</a>
+
+- <a href="https://github.com/Borsch-Appreciator/Minecraft-Server">Fun Projects</a>
+
 
 🔭 I’m currently working on studying for the SC-200 and creating write ups for SOC Incident Simulations I've worked on
 </br>
 ⚡ Fun fact: if you say "Raise up lights", it sounds like you're saying "Razor blades" in an Australian accent
 <h2>Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="JoshTorres | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="JoshTores | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/medium.svg" />][Medium]
 
 [linkedin]: https://www.linkedin.com/in/joshuactorres/
