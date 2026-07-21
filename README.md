@@ -1,4 +1,4 @@
-<h1>Hi, I'm Josh! <br/><a href="https://github.com/Borsch-Appreciator">Security Professional</a>, <a href="https://www.linkedin.com/in/joshuactorres/">Cybersecurity Professional</a>
+<h1>Hi, I'm <a href="https://www.linkedin.com/in/joshuactorres/">Josh</a>! I'm a CyberSecurity practitioner and aspiring SOC analyst. This is a mix of my portfolio consinsting of my labs, project, and walkthroughs for incident responses from either my own home grown labs or training platforms such as <a href="https://app.letsdefend.io/user/justjoshing">LetsDefend</a>, <a href="https://kc7cyber.com/profile/058bdda9">KC7</a>, and <a href="https://tryhackme.com/p/ItsJoosshh">TryHackMe</a>.
 
 <h2>👨‍💻 Projects:</h2>
 
