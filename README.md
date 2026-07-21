@@ -6,13 +6,13 @@
 <h2>Projects:</h2>
 
 - <b>LetsDefend Writeups</b>
-	-[Incident Walkthroughs](https://github.com/Borsch-Appreciator/Soc-analyst-portfolio/tree/LetsDefend-Investigations)
+	- [Incident Walkthroughs](https://github.com/Borsch-Appreciator/Soc-analyst-portfolio/tree/LetsDefend-Investigations)
 - <b>TryHackMe Rooms</b>
-	-[Room Walkthroughs](https://github.com/Borsch-Appreciator/Soc-analyst-portfolio/tree/TryHackMe-Rooms)
+	- [Room Walkthroughs](https://github.com/Borsch-Appreciator/Soc-analyst-portfolio/tree/TryHackMe-Rooms)
 - <b>Splunk Homelab </b>
-	-[Homelab and Monitoring](https://github.com/Borsch-Appreciator/Splunk-Home-Lab)
+	- [Homelab and Monitoring](https://github.com/Borsch-Appreciator/Splunk-Home-Lab)
 - <b>Fun Projects</b>
-	-[MineCraft Server](https://github.com/Borsch-Appreciator/Minecraft-Server)
+	- [MineCraft Server](https://github.com/Borsch-Appreciator/Minecraft-Server)
 
 🔭 I’m currently working on studying for the SC-200 and creating write ups for SOC Incident Simulations I've worked on
 </br>
