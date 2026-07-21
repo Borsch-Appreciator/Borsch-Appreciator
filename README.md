@@ -1,7 +1,7 @@
 <h1>Hi, I'm <a href="https://www.credly.com/users/joshua-torres.23b4bb5a/">Josh</a>! </h1>
 </br>
 
-<b> I'm an aspiring SOC Analyst with a passion for threat detection, incident response, and continuous learning. This repository serves as both my portfolio and learning journal, documenting the labs, projects, investigations, and write-ups I've completed while building my cybersecurity skills. Here you'll find walkthroughs and hands-on exercises from home labs and training platforms such as <a href="https://app.letsdefend.io/user/justjoshing">LetsDefend</a>, <a href="https://kc7cyber.com/profile/058bdda9">KC7</a>, <a href="https://tryhackme.com/p/ItsJoosshh">TryHackMe</a>. and <a href="https://learn.microsoft.com/en-us/users/torresjosh-8893/">Microsoft Learn</a>. My goal is to continuously improve my ability to investigate threats, analyze attacks, and develop the practical skills needed to succeed in a Security Operations Center (SOC). Outside of technical labs, I enjoy sharing what I've learned, and connecting with other cybersecurity professionals. Feedback, collaboration, and knowledge sharing are always welcome.
+<b> I'm an aspiring SOC Analyst with a Bachelor of Science, Cybersecurity and Information Assurance degree from Western Governors University. I have a passion for threat detection, incident response, and continuous learning. This repository serves as both my portfolio and learning journal, documenting the labs, projects, investigations, and write-ups I've completed while building my cybersecurity skills. Here you'll find walkthroughs and hands-on exercises from home labs and training platforms such as <a href="https://app.letsdefend.io/user/justjoshing">LetsDefend</a>, <a href="https://kc7cyber.com/profile/058bdda9">KC7</a>, <a href="https://tryhackme.com/p/ItsJoosshh">TryHackMe</a>. and <a href="https://learn.microsoft.com/en-us/users/torresjosh-8893/">Microsoft Learn</a>. My goal is to continuously improve my ability to investigate threats, analyze attacks, and develop the practical skills needed to succeed in a Security Operations Center (SOC). Outside of technical labs, I enjoy sharing what I've learned, and connecting with other cybersecurity professionals. Feedback, collaboration, and knowledge sharing are always welcome.
 
 <h2>Projects:</h2>
 
@@ -11,7 +11,10 @@
 
 - <a href="https://github.com/Borsch-Appreciator/Minecraft-Server">Fun Projects</a>
 
+<h2>Certifications</h2>
 
+- <a href="https://www.credly.com/users/joshua-torres.23b4bb5a/">Credly</a>
+</br>
 🔭 I’m currently working on studying for the SC-200 and creating write ups for SOC Incident Simulations I've worked on
 </br>
 ⚡ Fun fact: if you say "Raise up lights", it sounds like you're saying "Razor blades" in an Australian accent
