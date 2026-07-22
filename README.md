@@ -46,8 +46,6 @@
 </br>
 🔭 I’m currently working on studying for the SC-200 and creating write ups for SOC Incident Simulations I've worked on
 </br>
-⚡ Fun fact: if you say "Raise up lights", it sounds like you're saying "Razor blades" in an Australian accent
-<h2>Connect with me:</h2>
 
 [<img align="left" alt="JoshTorres | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="JoshTores | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/medium.svg" />][Medium]
@@ -67,4 +65,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - 
+
+⚡ Fun fact: if you say "Raise up lights", it sounds like you're saying "Razor blades" in an Australian accent
+<h2>Connect with me:</h2>
 -->
